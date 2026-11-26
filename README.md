@@ -8,4 +8,12 @@ CS6
 > More coming soon.
 
 # Instructions
-To use this spritesheet, simply download the latest release and import it as an external library in CS6. Enjoy using it, since no credits are needed, although optional. I do suggest leaving this repository in one of your videos or timelapses's description for people that want to use it too :D
+To use this spritesheet, simply download the latest release and import it as an external library in CS6. Enjoy using it, since no credits are needed, although optional. I Do suggest leaving a link to this repository for people that also want to use it.
+
+# Features
+```
+AAHW Sprites
+Grunt Sprites
+Deimos, Sanford and Hank Sprites
+And a lot more.
+```
